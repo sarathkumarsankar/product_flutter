@@ -1,4 +1,8 @@
 
+Screenshots:
+![Simulator Screenshot - iPhone 15 - 2024-11-27 at 18 24 35](https://github.com/user-attachments/assets/819127bc-1c83-4c14-a0c0-55421a60742f)
+![Simulator Screenshot - iPhone 15 - 2024-11-27 at 18 24 52](https://github.com/user-attachments/assets/f4861708-11d3-4b52-9540-10c569003d2b)
+![screenshot](https://github.com/user-attachments/assets/69f94e61-0ebd-44c7-ac8c-1d8f88ef3fdb)
 
 ## Design Choices
 ### 1. State Management with Riverpod
@@ -30,3 +34,4 @@ Platform-Specific Behaviors
 
 2. Designing responsive layouts for both mobile and tablet screens added complexity to the UI design. Utilizing MediaQuery and dynamic grid configurations resolved this issue.
 Efficient Image Handling
+
